@@ -14,6 +14,7 @@ A modern, interactive vacation calendar application built with React and Vite th
 
 <img width="1920" height="1933" alt="vacation-calendar" src="https://github.com/user-attachments/assets/e20a22e4-19ad-40b7-9088-0c8ac1425283" />
 <img width="1920" height="1142" alt="monthly" src="https://github.com/user-attachments/assets/babb060b-8b2c-4f10-a718-fee851a6a70b" />
+<img width="1763" height="902" alt="Screenshot 2025-09-24 180612" src="https://github.com/user-attachments/assets/ef45b6f5-da6c-40ee-8057-743a03b09f81" />
 
 
 ### Prerequisites
@@ -69,7 +70,6 @@ vacation-calendar/
 │   ├── App.jsx                   # Main application component
 │   ├── App.css                   # Application-specific styles
 │   ├── Calendar.jsx              # Calendar rendering and holiday integration
-│   ├── ImageManager.jsx          # Image upload and management system
 │   ├── index.css                 # Global styles and CSS variables
 │   ├── main.jsx                  # Application entry point
 │   └── assets/                   # Static assets (icons, images)
